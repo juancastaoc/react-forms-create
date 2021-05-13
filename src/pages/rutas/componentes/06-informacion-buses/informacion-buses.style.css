@@ -1,0 +1,18 @@
+.informacion-buses-container {
+    width:15%;
+    min-height:200px;
+    border: 2px solid orange ;
+    border-radius: 4%;
+    position: absolute;
+    left: 1150px;
+    top: 400px;    
+    
+    background-color: whitesmoke;
+    text-align: left;
+}
+
+.categoria-rural{
+
+width: auto;
+
+}

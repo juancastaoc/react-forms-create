@@ -1,0 +1,9 @@
+.categoria-rutas-container {
+    width: auto;
+    min-height: auto;
+    font-weight: bold;
+    background-color: blue; 
+    color: aliceblue;
+    border-radius: 6px;
+
+}

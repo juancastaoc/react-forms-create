@@ -1,0 +1,20 @@
+.transporte-urbano-container {
+    width:15%;
+    min-height:150px;
+    border: 2px solid orange ;
+    border-radius: 4%;
+    position: absolute;
+    left: 80px;
+    top: 400px;
+    background-color: white;
+     
+}
+
+.informacion-rutas{
+font-weight: lighter;
+border: 1px;
+
+}
+
+
+

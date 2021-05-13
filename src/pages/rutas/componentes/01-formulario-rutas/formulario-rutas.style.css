@@ -1,0 +1,21 @@
+.formulario-rutas-container {
+    width:15%;
+    min-height:200px;
+    border: 2px solid orange ;
+    border-radius: 4%;
+    position: absolute;
+    left: 70px;
+    top: 70px; 
+    text-align: center; 
+    color: aliceblue;
+    
+    
+    margin: 10px; 
+    background-color: blue;
+
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
